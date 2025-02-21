@@ -280,7 +280,8 @@ border-top: none;}
        letter-spacing: 0.02em;
        color: #f4f4fd;
      }
-         .footer-logo{margin-bottom: 16px;
+         .footer-logo{
+          margin-bottom: 16px;
         
 }
          .page-footer-text{
@@ -359,7 +360,8 @@ gap: 24px;
 
 
 .footer-wrapper {
-display: flex;align-items: baseline,
+display: flex;
+align-items: baseline,
 }
 .footer-list {}
 

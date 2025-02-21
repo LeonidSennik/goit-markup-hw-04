@@ -361,15 +361,14 @@ gap: 24px;
 
 .footer-wrapper {
 display: flex;
-align-items: baseline,
+align-items: baseline;
 }
-.footer-list {}
+.footer-list {margin-right: 120px;}
 
-    .footer-link{
-      margin-left: 120px;
-    }
         .footer-icon-text {
-          padding-bottom: 16px;
+          margin-bottom: 16px;
+          font-weight: 500;
+          color:#FFFFFF;
         }
     .footer-icon-list{display: flex;
     gap: 16px;
@@ -386,7 +385,7 @@ align-items: baseline,
               border-radius: 50px;
               transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
             }
-            .footer-item-icon {
+            .footer-item-icon {border-radius:50%;
               width: 40px;
               height: 40px;
             }

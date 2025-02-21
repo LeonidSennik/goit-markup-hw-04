@@ -279,8 +279,8 @@ border-top: none;}
   
    
    /*#region button */
-   .business{ background-image:linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7))
-    ,url(../images/people-office\ 1.jpg);
+   .business{ background-image:linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), 
+    url(../images/office.jpg);
      background-size: cover;
      background-repeat: no-repeat;
       background-color: #2e2f42;

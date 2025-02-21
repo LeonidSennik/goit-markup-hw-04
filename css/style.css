@@ -382,7 +382,7 @@ align-items: baseline;
               height: 100%;
               fill: #4d5ae5;
               background-color: #4d5ae5;
-              border-radius: 50px;
+              border-radius: 50%;
               transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
             }
             .footer-item-icon {border-radius:50%;
@@ -393,4 +393,4 @@ align-items: baseline;
             .footer-icon-link:focus {
               background-color: #31D0AA
             }
-       
+       .footer-icon{fill:#f4f4fd;}

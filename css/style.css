@@ -359,7 +359,7 @@ gap: 24px;
 
 
 .footer-wrapper {
-display: flex;
+display: flex;align-items: baseline,
 }
 .footer-list {}
 
